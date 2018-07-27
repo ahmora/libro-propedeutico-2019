@@ -1,5 +1,0 @@
-\select@language {spanish}
-\contentsline {chapter}{\IeC {\'I}ndice}{3}
-\contentsline {chapter}{\numberline {1}Bruno Martinez Enriquez}{5}
-\contentsline {section}{\numberline {1.1}Un poco sobre m\IeC {\'\i }}{5}
-\contentsline {subsection}{\numberline {1.1.1}hobbies}{5}
