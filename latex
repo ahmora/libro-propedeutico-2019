@@ -1,0 +1,51 @@
+
+
+\chapter{Juan García Lugo}
+
+% https://www.lipsum.com
+\section{Un poco soobre mí}
+
+Yo nací el 5 de enero del 2000, soy hombre, vengo de una familia nuclear, tengo muchos familiares que viven muy cerca de mi casa, tengo varios amigos, y una novia, me gusta mucho las matemáticas, la física , y la computación (más las matemáticas, hasta ahora), me gusta mucho el pan, tengo una complexión delgada, mido 1,68, peso 63 kilogramos, uso lentes, por lo regular tengo el cabello largo, pero ahora por motivos de la cartilla militar, me lo corte, y pues me gusto el corte.
+
+\begin{figure}[h]
+  \centering
+  \includegraphics[scale=0.125]{IMG/18.jpg}
+  \caption{García Lugo Juan}
+  \label{foto:juan}
+\end{figure}
+
+El chico que esta arriba \emph{\textbf{soy yo}}~\ref{foto:juan} a los 16   
+\section{¿Porque elegí esta carrera?}
+
+La carrera la elegí, porque me gusto mucho, la gran capacidad de los programadores, para generar algoritmos, y encontrar soluciones computables, a ciertos problemas, y de por si , la carrea en genral me parece muy interesante
+
+
+\section{¿Qué me gusta hacer?}
+
+\begin{enumerate}
+\item Estudiar
+\item Leer
+\item Hacer ejercicio
+\item resolver ejercicios
+\item caminar
+\end{enumerate}
+
+\section {Lo que nunca me aprendi}
+
+\begin{table}[h]
+  \centering
+  \begin{tabular} {c c c}
+    \hline
+    operando & operando & Resultado\\
+
+    $+$ & $+$ & $+$\\
+    $+$ & $-$ & $-$\\
+    $-$ & $+$ & $-$\\
+    $-$ & $-$ & $+$\\
+
+    \label{No}
+    
+  \end{tabular}
+\end{table}
+
+nunca me aprendí \emph{\textbf{ Las leyes de los signos}}~\ref{No}, pero siempre tengo conmigo una tabla que me ayuda a recordarlos
