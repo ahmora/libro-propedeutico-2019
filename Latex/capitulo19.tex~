@@ -1,58 +1,15 @@
 
-\author{Martin Felipe Espinal Cruces\thanks{cofy43@ciencias.unam.mx}}
-\title{Autobiografia}
-\date{\today}
-
-\renewcommand{\labelitemi}{$\bullet$}
-
-
-\begin{document}
-
-\maketitle
-\tableofcontents
-\addcontentsline{toc}{chapter}{Capítulo 1}
-
-\listoffigures
-\addcontentsline{toc}{chapter}{Capítulo 2}
-
-\listoftables
-\addcontentsline{toc}{chapter}{Capítulo 3}
-
-\listoftables
-\addcontenesline{toc}{chapter}{Capítulo 4}
-
-
-
-
-
-
-
-
-
-\newpage
-
-\maketitle
-\tableofcontents
-\addcontentsline{toc}{chapter}{Capítulo1}
-
-\chapter*{Breve historia de mi vida}
+\chapter{Breve historia de mi vida}
 
 Hola soy Martin, actualmete  fui aceptado en la facultad de Ciencias en la carrera de Ciencias de la computacion, naci el 9 de agosto de 1999, y he pasado casi toda mi vida en la Ciudad de México a ecepción de un par de años que viví en púebla
 
 \begin{figure}[h]
-  \centerimg
-  \incldegraphics{scale=0.5}{IMG/30_2.jpg}
+  \centering
+  \inculdegraphics[scale=0.5]{IMG/19_2.jpg}
   \caption{Facultad de ciencias}
   \label{fig:facultad}
 \end{figure}
 
-
-
-\newpage
-
-\maketitle
-\tableofcontents
-\addcontentsline{toc}{chapter}{Capítulo2}
 
 \chapter*{Mi familia}
 
@@ -60,18 +17,11 @@ Mi padre se llama MIguel Ángel, y mi madre se llama Sandra Lisbeth; Tengo 2 her
 
 \begin{figure}[h]
   \centerimg
-  \incldegraphics{scale=0.5}{IMG/30_4.jpg}
+  \incldegraphics[scale=0.5]{IMG/19_4.jpg}
   \caption{Atardecer}
   \label{fig:atardecer}
 \end{figure}
 
-
-\newpage
-
-\maketitle
-\tableofcontents
-\maketitle
-\tableofcontents{toc}{chapter}{Capítulo3}
 
 \chapter*{Mis gustos}
 
@@ -99,18 +49,10 @@ Me gustan las matemáticas ya que son bastantes entretenidas y en ellas encuentr
 Tambien me agrada bastante la música del anterior siglo
 \begin{figure}[h]
   \centerimg
-  \incldegraphics{scale=0.5}{IMG/30_1.jpg}
+  \incldegraphics[scale=0.5]{IMG/19_1.jpg}
   \caption{iamgen de lo que me gustaria aprender}
   \label{fig:guitarra}
 \end{figure}
-
-\newpage
-
-
-\maketitle
-\tableofcontents
-\maketitle
-\tableofcontents{toc}{chapter}{Capítulo4}
 
 \chapter{Mis planes}
 
@@ -118,7 +60,7 @@ Planeo terminar mi carrera, conseguir un buen empleo, administrar mi tiempo para
 
 \begin{figure}[h]
   \centerimg
-  \incldegraphics{scale=0.5}{IMG/30_3.jpg}
+  \incldegraphics[scale=0.5]{IMG/19_3.jpg}
   \caption{ciencias de la computacion}
   \label{fig:computo}
 \end{figure}

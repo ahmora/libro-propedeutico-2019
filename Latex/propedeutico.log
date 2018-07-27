@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.7.25)  27 JUL 2018 14:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.7.25)  27 JUL 2018 15:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -454,6 +454,28 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 635.
 LaTeX Info: Redefining \[ on input line 2739.
 LaTeX Info: Redefining \] on input line 2740.
 )
+(/usr/share/texlive/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2016/05/22 v1.1-161 Sub-captions (AR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+\captionmargin=\dimen115
+\captionmargin@=\dimen116
+\captionwidth=\dimen117
+\caption@tempdima=\dimen118
+\caption@indent=\dimen119
+\caption@parindent=\dimen120
+\caption@hangindent=\dimen121
+)
+\c@ContinuedFloat=\count103
+)
+\c@subfigure=\count104
+\c@subtable=\count105
+)
 (/usr/share/texlive/texmf-dist/tex/latex/amscls/amsthm.sty
 Package: amsthm 2015/03/04 v2.20.2
 \thm@style=\toks23
@@ -479,17 +501,17 @@ Package ifvtex Info: VTeX not detected.
 (/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-\Gm@cnth=\count103
-\Gm@cntv=\count104
-\c@Gm@tempcnt=\count105
-\Gm@bindingoffset=\dimen115
-\Gm@wd@mp=\dimen116
-\Gm@odd@mp=\dimen117
-\Gm@even@mp=\dimen118
-\Gm@layoutwidth=\dimen119
-\Gm@layoutheight=\dimen120
-\Gm@layouthoffset=\dimen121
-\Gm@layoutvoffset=\dimen122
+\Gm@cnth=\count106
+\Gm@cntv=\count107
+\c@Gm@tempcnt=\count108
+\Gm@bindingoffset=\dimen122
+\Gm@wd@mp=\dimen123
+\Gm@odd@mp=\dimen124
+\Gm@even@mp=\dimen125
+\Gm@layoutwidth=\dimen126
+\Gm@layoutheight=\dimen127
+\Gm@layouthoffset=\dimen128
+\Gm@layoutvoffset=\dimen129
 \Gm@dimlist=\toks29
 )
 (/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
@@ -512,42 +534,55 @@ Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 (/usr/share/texlive/texmf-dist/tex/latex/xcolor/svgnam.def
 File: svgnam.def 2016/05/11 v2.12 Predefined colors according to SVG 1.1 (UK)
 ))
-\c@teorema=\count106
+\c@teorema=\count109
 
 (./propedeutico.aux
 LaTeX Info: Redefining \. on input line 6.
 LaTeX Info: Redefining \% on input line 6.
- (./capitulo2.aux) (./Capitulo3.aux) (./capitulo4.aux)
-(./capitulo5.aux) (./Capitulo6.aux))
+ (./capitulo2.aux) (./capitulo3.aux) (./capitulo4.aux)
+(./capitulo5.aux
+
+LaTeX Warning: Label `tab:leyes_signos' multiply defined.
+
+) (./capitulo6.aux) (./capitulo7.aux) (./capitulo8.aux) (./capitulo9.aux)
+(./capitulo10.aux) (./capitulo11.aux) (./capitulo12.aux) (./capitulo13.aux)
+(./capitulo14.aux) (./capitulo15.aux) (./capitulo16.aux) (./capitulo17.aux)
+(./capitulo18.aux) (./capitulo19.aux) (./capitulo20.aux
+
+LaTeX Warning: Label `tabla:leyes_signos' multiply defined.
+
+) (./capitulo21.aux) (./capitulo22.aux) (./capitulo23.aux) (./capitulo24.aux)
+(./capitulo25.aux) (./capitulo26.aux) (./capitulo27.aux) (./capitulo28.aux)
+(./capitulo29.aux) (./capitulo30.aux) (./capitulo31.aux) (./capitulo32.aux))
 \openout1 = `propedeutico.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Info: Redefining \. on input line 27.
-LaTeX Info: Redefining \% on input line 27.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Info: Redefining \. on input line 29.
+LaTeX Info: Redefining \% on input line 29.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count107
-\scratchdimen=\dimen123
+\scratchcounter=\count110
+\scratchdimen=\dimen130
 \scratchbox=\box28
-\nofMPsegments=\count108
-\nofMParguments=\count109
+\nofMPsegments=\count111
+\nofMParguments=\count112
 \everyMPshowfont=\toks30
-\MPscratchCnt=\count110
-\MPscratchDim=\dimen124
-\MPnumerator=\count111
-\makeMPintoPDFobject=\count112
+\MPscratchCnt=\count113
+\MPscratchDim=\dimen131
+\MPnumerator=\count114
+\makeMPintoPDFobject=\count115
 \everyMPtoPDFconversion=\toks31
 ) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
@@ -595,6 +630,9 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -629,17 +667,6 @@ e
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-! Undefined control sequence.
-<argument> ...ame system@active~\endcsname \plogo 
-                                                  
-l.60 ...large Editor: Alejandro Hernández~~\plogo
-                                                  } % Publisher and logo
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
 [1
 
 
@@ -647,398 +674,763 @@ and I'll forget about whatever was undefined.
 (./propedeutico.toc
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
-)
+ [1
+
+]
+LaTeX Info: Redefining \. on input line 75.
+LaTeX Info: Redefining \% on input line 75.
+ [2])
 \tf@toc=\write3
 \openout3 = `propedeutico.toc'.
 
- [1
-
-] (./propedeutico.lof
+LaTeX Info: Redefining \. on input line 72.
+LaTeX Info: Redefining \% on input line 72.
+ [3] (./propedeutico.lof
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
-)
+ [4
+
+])
 \tf@lof=\write4
 \openout4 = `propedeutico.lof'.
 
- [2
-
-] (./propedeutico.lot
+LaTeX Info: Redefining \. on input line 76.
+LaTeX Info: Redefining \% on input line 76.
+ [5]
+(./propedeutico.lot
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
 )
 \tf@lot=\write5
 \openout5 = `propedeutico.lot'.
 
- [3
+ [6
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 78--81
+Underfull \hbox (badness 10000) in paragraph at lines 80--83
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 82--84
+Underfull \hbox (badness 10000) in paragraph at lines 84--86
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 85--86
+Underfull \hbox (badness 10000) in paragraph at lines 87--88
 
  []
 
-[4
+[7
 
 ]
 Cap\'{\i }tulo 1.
+[8
 
-LaTeX Warning: Citation `Floodlight' on page 5 undefined on input line 96.
-
-
-LaTeX Warning: Citation `torres' on page 5 undefined on input line 98.
-
-
-LaTeX Warning: Citation `comunidad' on page 5 undefined on input line 98.
-
-
-LaTeX Warning: Citation `retorno' on page 5 undefined on input line 98.
-
-[5
-
-]
-
-! LaTeX Error: Environment subfigure undefined.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.137   \begin{subfigure}
-                         {0.45\textwidth}
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-! Missing number, treated as zero.
-<to be read again> 
-                   }
-l.137   \begin{subfigure}{0.45\textwidth}
-                                         
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-! Illegal unit of measure (pt inserted).
-<to be read again> 
-                   }
-l.137   \begin{subfigure}{0.45\textwidth}
-                                         
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
-
-<pitagoras.png, id=42, 330.23375pt x 214.8025pt>
+] <pitagoras.png, id=54, 330.23375pt x 214.8025pt>
 File: pitagoras.png Graphic file (type png)
  <use pitagoras.png>
-Package pdftex.def Info: pitagoras.png used on input line 138.
-(pdftex.def)             Requested size: 400.38872pt x 260.44608pt.
+Package pdftex.def Info: pitagoras.png used on input line 140.
+(pdftex.def)             Requested size: 180.17369pt x 117.19778pt.
 
-
-! LaTeX Error: \begin{figure} on input line 135 ended by \end{subfigure}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.141   \end{subfigure}
-                       
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! LaTeX Error: Environment subfigure undefined.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.142   \begin{subfigure}
-                         {0.45\textwidth}
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-! Missing number, treated as zero.
-<to be read again> 
-                   }
-l.142   \begin{subfigure}{0.45\textwidth}
-                                         
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-! Illegal unit of measure (pt inserted).
-<to be read again> 
-                   }
-l.142   \begin{subfigure}{0.45\textwidth}
-                                         
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
-
-<pitagoras2.png, id=44, 311.1625pt x 150.5625pt>
+<pitagoras2.png, id=56, 311.1625pt x 150.5625pt>
 File: pitagoras2.png Graphic file (type png)
  <use pitagoras2.png>
-Package pdftex.def Info: pitagoras2.png used on input line 143.
-(pdftex.def)             Requested size: 500.484pt x 242.17307pt.
-
-
-! LaTeX Error: \begin{figure} on input line 135 ended by \end{subfigure}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.146   \end{subfigure}
-                       
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-LaTeX Info: Redefining \. on input line 169.
-LaTeX Info: Redefining \% on input line 169.
-[6]
-LaTeX Info: Redefining \. on input line 169.
-LaTeX Info: Redefining \% on input line 169.
- [7 <./pitagoras.png> <./pitagoras2.png>]
+Package pdftex.def Info: pitagoras2.png used on input line 145.
+(pdftex.def)             Requested size: 225.21626pt x 108.97696pt.
+LaTeX Info: Redefining \. on input line 171.
+LaTeX Info: Redefining \% on input line 171.
+ [9 <./pitagoras.png> <./pitagoras2.png>]
 \openout2 = `capitulo2.aux'.
 
  (./capitulo2.tex
 Cap\'{\i }tulo 2.
-
-LaTeX Warning: Citation `torres' on page 8 undefined on input line 7.
-
-
-LaTeX Warning: Citation `retorno' on page 8 undefined on input line 8.
-
-
-LaTeX Warning: Citation `comunidad' on page 8 undefined on input line 9.
+<IMG/13.jpg, id=63, 602.25pt x 853.1875pt>
+File: IMG/13.jpg Graphic file (type jpg)
+ <use IMG/13.jpg>
+Package pdftex.def Info: IMG/13.jpg used on input line 21.
+(pdftex.def)             Requested size: 240.89572pt x 341.26895pt.
 
 
-LaTeX Warning: File `IMG/imagen1.png' not found on input line 21.
+LaTeX Warning: `h' float specifier changed to `ht'.
 
-
-! Package pdftex.def Error: File `IMG/imagen1.png' not found.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.21 ...ncludegraphics[scale=0.4]{IMG/imagen1.png}
-                                                  
-Using draft setting for this image.
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-LaTeX Font Info:    Try loading font information for T1+cmtt on input line 21.
-(/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
-File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
-) [8
+[10
 
 
 ])
-LaTeX Info: Redefining \. on input line 169.
-LaTeX Info: Redefining \% on input line 169.
- [9]
-\openout2 = `Capitulo3.aux'.
+LaTeX Info: Redefining \. on input line 171.
+LaTeX Info: Redefining \% on input line 171.
+ [11 <./IMG/13.jpg>]
+\openout2 = `capitulo3.aux'.
 
-
-No file Capitulo3.tex.
+ (./capitulo3.tex)
 \openout2 = `capitulo4.aux'.
+
 
 No file capitulo4.tex.
 \openout2 = `capitulo5.aux'.
 
-No file capitulo5.tex.
-\openout2 = `Capitulo6.aux'.
-
-(./Capitulo6.tex
-
-! LaTeX Error: Can be used only in preamble.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1 \documentclass
-                  {book}
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
+(./capitulo5.tex
+Cap\'{\i }tulo 3.
+<./IMG/5.png, id=72, 306.14375pt x 165.61874pt>
+File: ./IMG/5.png Graphic file (type png)
+ <use ./IMG/5.png>
+Package pdftex.def Info: ./IMG/5.png used on input line 5.
+(pdftex.def)             Requested size: 306.14299pt x 165.61833pt.
+ [12
 
 
-! LaTeX Error: Can be used only in preamble.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.4 \usepackage
-               [spanish]{babel}
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
 
 
-! LaTeX Error: Can be used only in preamble.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.5 \usepackage
-               [utf8]{inputenc}
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
 
 
-! LaTeX Error: Can be used only in preamble.
 
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.6 \usepackage
-               [T1]{fontenc}
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
+ <./IMG/5.png>]
+Cap\'{\i }tulo 4.
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--32
+
+ []
 
 
-! LaTeX Error: Can be used only in preamble.
+Underfull \hbox (badness 10000) in paragraph at lines 32--34
 
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.7 \usepackage
-               {graphicx}
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
+ []
 
 
-! LaTeX Error: Can be used only in preamble.
+Package caption Warning: \label without proper reference on input line 42.
+See the caption package documentation for explanation.
 
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.13 \begin{document}
-                     
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
 
-LaTeX Info: Redefining \. on input line 14.
-LaTeX Info: Redefining \% on input line 14.
+LaTeX Warning: Reference `tab:leyes_signos' on page 13 undefined on input line 
+58.
+
+) [13
+
+]
+\openout2 = `capitulo6.aux'.
+
+ (./capitulo6.tex
+Cap\'{\i }tulo 5.
+<IMG/6.jpg, id=82, 1264.725pt x 711.65875pt>
+File: IMG/6.jpg Graphic file (type jpg)
+ <use IMG/6.jpg>
+Package pdftex.def Info: IMG/6.jpg used on input line 23.
+(pdftex.def)             Requested size: 126.4799pt x 71.17004pt.
+) [14
+
+
+
+ <./IMG/6.jpg>]
+\openout2 = `capitulo7.aux'.
+
+ (./capitulo7.tex
+Cap\'{\i }tulo 6.
+<IMG/7.jpg, id=86, 1405.25pt x 702.625pt>
+File: IMG/7.jpg Graphic file (type jpg)
+ <use IMG/7.jpg>
+Package pdftex.def Info: IMG/7.jpg used on input line 7.
+(pdftex.def)             Requested size: 210.7784pt x 105.38919pt.
+
+<IMG/7_2.jpg, id=87, 489.32813pt x 367.3725pt>
+File: IMG/7_2.jpg Graphic file (type jpg)
+ <use IMG/7_2.jpg>
+Package pdftex.def Info: IMG/7_2.jpg used on input line 19.
+(pdftex.def)             Requested size: 122.33173pt x 91.8429pt.
+
+<IMG/7_3.jpg, id=88, 632.3625pt x 321.2pt>
+File: IMG/7_3.jpg Graphic file (type jpg)
+ <use IMG/7_3.jpg>
+Package pdftex.def Info: IMG/7_3.jpg used on input line 20.
+(pdftex.def)             Requested size: 183.38043pt x 93.14561pt.
+
+<IMG/7_4.jpg, id=89, 295.1025pt x 171.64125pt>
+File: IMG/7_4.jpg Graphic file (type jpg)
+ <use IMG/7_4.jpg>
+Package pdftex.def Info: IMG/7_4.jpg used on input line 21.
+(pdftex.def)             Requested size: 159.35297pt x 92.68488pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+) [15
+
+
+
+ <./IMG/7.jpg>]
+LaTeX Info: Redefining \. on input line 176.
+LaTeX Info: Redefining \% on input line 176.
+ [16 <./IMG/7_2.jpg> <./IMG/7_3.jpg> <./IMG/7_4.jpg>]
+\openout2 = `capitulo8.aux'.
+
+
+(./capitulo8.tex
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 3.
+ (/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
+File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+[1
+
+
+
+] (./propedeutico.lof)
+\tf@lof=\write6
+\openout6 = `propedeutico.lof'.
+
+ [1
+
+] [2
+
+]
+Cap\'{\i }tulo 7.
+<IMG/8_1.png, id=109, 792.9625pt x 592.2125pt>
+File: IMG/8_1.png Graphic file (type png)
+ <use IMG/8_1.png>
+Package pdftex.def Info: IMG/8_1.png used on input line 28.
+(pdftex.def)             Requested size: 396.48027pt x 296.10551pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<IMG/8_2.jpg, id=110, 301.125pt x 168.63pt>
+File: IMG/8_2.jpg Graphic file (type jpg)
+ <use IMG/8_2.jpg>
+Package pdftex.def Info: IMG/8_2.jpg used on input line 34.
+(pdftex.def)             Requested size: 240.90031pt x 134.90417pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+) [3
+
+]
+LaTeX Info: Redefining \. on input line 177.
+LaTeX Info: Redefining \% on input line 177.
+ [4 <./IMG/8_1.png> <./IMG/8_2.jpg>]
+\openout2 = `capitulo9.aux'.
+
+ (./capitulo9.tex
+Cap\'{\i }tulo 8.
+File: IMG/13.jpg Graphic file (type jpg)
+<use IMG/13.jpg>
+Package pdftex.def Info: IMG/13.jpg used on input line 12.
+(pdftex.def)             Requested size: 12.04753pt x 17.06735pt.
+File: IMG/13.jpg Graphic file (type jpg)
+ <use IMG/13.jpg>
+Package pdftex.def Info: IMG/13.jpg used on input line 22.
+(pdftex.def)             Requested size: 301.12425pt x 426.59271pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+) [5
+
+
+
+]
+LaTeX Info: Redefining \. on input line 178.
+LaTeX Info: Redefining \% on input line 178.
+ [6]
+\openout2 = `capitulo10.aux'.
+
+ (./capitulo10.tex
+Cap\'{\i }tulo 9.
+Runaway argument?
+Caminar \end {enumerate} 
+! Paragraph ended before \@item was complete.
+<to be read again> 
+                   \par 
+l.17 
+     
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+<IMG/tacos.jpg, id=124, 1104.125pt x 731.73375pt>
+File: IMG/tacos.jpg Graphic file (type jpg)
+ <use IMG/tacos.jpg>
+Package pdftex.def Info: IMG/tacos.jpg used on input line 20.
+(pdftex.def)             Requested size: 220.82109pt x 146.34415pt.
+) [7
+
+
+
+ <./IMG/tacos.jpg>]
+\openout2 = `capitulo11.aux'.
+
+ (./capitulo11.tex
+Cap\'{\i }tulo 10.
+<IMG/Girasol_.jpg, id=129, 505.89pt x 722.7pt>
+File: IMG/Girasol_.jpg Graphic file (type jpg)
+ <use IMG/Girasol_.jpg>
+Package pdftex.def Info: IMG/Girasol_.jpg used on input line 18.
+(pdftex.def)             Requested size: 101.1762pt x 144.53743pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[8
+
+
+
+ <./IMG/Girasol_.jpg>])
+LaTeX Info: Redefining \. on input line 180.
+LaTeX Info: Redefining \% on input line 180.
+ [9]
+\openout2 = `capitulo12.aux'.
+
+
+No file capitulo12.tex.
+\openout2 = `capitulo13.aux'.
+
+(./capitulo13.tex
+Cap\'{\i }tulo 11.
 [10
 
 
 
 
 
+]
+File: IMG/13.jpg Graphic file (type jpg)
+ <use IMG/13.jpg>
+Package pdftex.def Info: IMG/13.jpg used on input line 41.
+(pdftex.def)             Requested size: 301.12425pt x 426.59271pt.
+
+
+LaTeX Warning: Reference `fig:anillo' on page 11 undefined on input line 47.
+
+)
+LaTeX Info: Redefining \. on input line 182.
+LaTeX Info: Redefining \% on input line 182.
+ [11]
+\openout2 = `capitulo14.aux'.
+
+ (./capitulo14.tex
+Cap\'{\i }tulo 12.
+[12
 
 
 
-] [1
+] <IMG/Fry.jpg, id=145, 362.10281pt x 245.41687pt>
+File: IMG/Fry.jpg Graphic file (type jpg)
+ <use IMG/Fry.jpg>
+Package pdftex.def Info: IMG/Fry.jpg used on input line 34.
+(pdftex.def)             Requested size: 181.05095pt x 122.70813pt.
+)
+LaTeX Info: Redefining \. on input line 183.
+LaTeX Info: Redefining \% on input line 183.
+
+[13 <./IMG/Fry.jpg>]
+\openout2 = `capitulo15.aux'.
+
+ (./capitulo15.tex
+LaTeX Info: Redefining \. on input line 9.
+LaTeX Info: Redefining \% on input line 9.
+ [14
+
+
+] (./propedeutico.toc)
+\tf@toc=\write7
+\openout7 = `propedeutico.toc'.
+
+ [15
 
 ]
-Cap\'{\i }tulo 3.
+Cap\'{\i }tulo 13.
+<IMG/15.png, id=156, 602.25pt x 602.25pt>
+File: IMG/15.png Graphic file (type png)
+ <use IMG/15.png>
+Package pdftex.def Info: IMG/15.png used on input line 40.
+(pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
 
-LaTeX Warning: Citation `torres' on page 1 undefined on input line 24.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[16
+
+]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 70.
+ (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 70.
+LaTeX Info: Redefining \. on input line 98.
+LaTeX Info: Redefining \% on input line 98.
+ [17 <./IMG/15.png>])
+LaTeX Info: Redefining \. on input line 184.
+LaTeX Info: Redefining \% on input line 184.
+ [18]
+\openout2 = `capitulo16.aux'.
+
+ (./capitulo16.tex
+Cap\'{\i }tulo 14.
+File: IMG/13.jpg Graphic file (type jpg)
+<use IMG/13.jpg>
+Package pdftex.def Info: IMG/13.jpg used on input line 17.
+(pdftex.def)             Requested size: 90.33359pt x 127.9726pt.
+) [19
 
 
-LaTeX Warning: Citation `comunidad' on page 1 undefined on input line 24.
+
+]
+\openout2 = `capitulo17.aux'.
 
 
-LaTeX Warning: Citation `retorno' on page 1 undefined on input line 24.
+No file capitulo17.tex.
+\openout2 = `capitulo18.aux'.
 
-<IMG/6.jpg, id=74, 1264.725pt x 711.65875pt>
-File: IMG/6.jpg Graphic file (type jpg)
- <use IMG/6.jpg>
-Package pdftex.def Info: IMG/6.jpg used on input line 36.
-(pdftex.def)             Requested size: 126.4799pt x 71.17004pt.
- [1
+(./capitulo18.tex
+Cap\'{\i }tulo 15.
+<IMG/18.jpg, id=171, 963.6pt x 963.6pt>
+File: IMG/18.jpg Graphic file (type jpg)
+ <use IMG/18.jpg>
+Package pdftex.def Info: IMG/18.jpg used on input line 11.
+(pdftex.def)             Requested size: 120.4497pt x 120.4497pt.
+ [20
 
- <./IMG/6.jpg>]
-(./propedeutico.aux
+
+
+
+
+ <./IMG/18.jpg>]
+
+Package caption Warning: \label without proper reference on input line 45.
+See the caption package documentation for explanation.
+
+
+LaTeX Warning: Reference `No' on page 21 undefined on input line 50.
+
+)
+LaTeX Info: Redefining \. on input line 187.
+LaTeX Info: Redefining \% on input line 187.
+ [21]
+\openout2 = `capitulo19.aux'.
+
+ (./capitulo19.tex
+Cap\'{\i }tulo 16.
+<IMG/19_2.jpg, id=178, 442.65375pt x 501.875pt>
+File: IMG/19_2.jpg Graphic file (type jpg)
+ <use IMG/19_2.jpg>
+Package pdftex.def Info: IMG/19_2.jpg used on input line 7.
+(pdftex.def)             Requested size: 221.32632pt x 250.93687pt.
+ [22
+
+
+
+ <./IMG/19_2.jpg>] <IMG/19_4.jpg, id=182, 772.8875pt x 421.575pt>
+File: IMG/19_4.jpg Graphic file (type jpg)
+ <use IMG/19_4.jpg>
+Package pdftex.def Info: IMG/19_4.jpg used on input line 19.
+(pdftex.def)             Requested size: 386.4428pt x 210.78697pt.
+
+[23
+
+ <./IMG/19_4.jpg>] <IMG/19_1.jpg, id=186, 231.264pt x 154.176pt>
+File: IMG/19_1.jpg Graphic file (type jpg)
+
+<use IMG/19_1.jpg>
+Package pdftex.def Info: IMG/19_1.jpg used on input line 51.
+(pdftex.def)             Requested size: 115.63171pt x 77.0878pt.
+ [24
+
+ <./IMG/19_1.jpg>]
+Cap\'{\i }tulo 17.
+<IMG/19_3.jpg, id=190, 101.6598pt x 68.4156pt>
+File: IMG/19_3.jpg Graphic file (type jpg)
+ <use IMG/19_3.jpg>
+Package pdftex.def Info: IMG/19_3.jpg used on input line 62.
+(pdftex.def)             Requested size: 50.82977pt x 34.2077pt.
+) [25
+
+ <./IMG/19_3.jpg>]
+\openout2 = `capitulo20.aux'.
+
+ (./capitulo20.tex [26
+
+
+
+]
+Cap\'{\i }tulo 18.
+[27
+
+] <20.jpeg, id=201, 222.8325pt x 139.27031pt>
+File: 20.jpeg Graphic file (type jpg)
+ <use 20.jpeg>
+Package pdftex.def Info: 20.jpeg used on input line 32.
+(pdftex.def)             Requested size: 111.41597pt x 69.63498pt.
+)
+LaTeX Info: Redefining \. on input line 189.
+LaTeX Info: Redefining \% on input line 189.
+ [28 <./20.jpeg>]
+\openout2 = `capitulo21.aux'.
+
+ (./capitulo21.tex
+Cap\'{\i }tulo 19.
+
+Overfull \hbox (32.50941pt too wide) in paragraph at lines 4--7
+[]\T1/cmr/m/n/12 When to-do em-pe-zo.... ashf-ba-siuh-faisjdh-fiasd asfjh-basld
+kjflj-baIS-BI-SABF-SALJKB-FOUIEAS-
+ []
+
+
+Overfull \hbox (71.5557pt too wide) in paragraph at lines 4--7
+\T1/cmr/m/n/12 BEFLKSJDBF-SIHDB-FESWG-sadnfijasbdnfouiasbhfjksnbdvlkjsdabvljkds
+bvlkjsbdfvljidbsgvlkajdbv 
+ []
+
+
+LaTeX Warning: Citation `guerra' on page 29 undefined on input line 10.
+
+
+LaTeX Warning: Citation `hombre' on page 29 undefined on input line 10.
+
+
+LaTeX Warning: Citation `ensayo' on page 29 undefined on input line 10.
+
+
+LaTeX Warning: Citation `orwel' on page 29 undefined on input line 10.
+
+
+LaTeX Warning: Citation `huxley' on page 29 undefined on input line 10.
+
+<21.png, id=205, 501.875pt x 334.24875pt>
+File: 21.png Graphic file (type png)
+ <use 21.png>
+Package pdftex.def Info: 21.png used on input line 35.
+(pdftex.def)             Requested size: 125.46843pt x 83.56198pt.
+ [29
+
+
+
+])
+LaTeX Info: Redefining \. on input line 190.
+LaTeX Info: Redefining \% on input line 190.
+ [30 <./21.png>]
+\openout2 = `capitulo22.aux'.
+
+
+(./capitulo22.tex
+Cap\'{\i }tulo 20.
+
+LaTeX Warning: Citation `salinger2001guardian' on page 31 undefined on input li
+ne 40.
+
+
+LaTeX Warning: Citation `rice2014entrevista' on page 31 undefined on input line
+ 40.
+
+
+LaTeX Warning: Citation `shelley2008frankenstein' on page 31 undefined on input
+ line 40.
+
+
+LaTeX Warning: Citation `marias2011corazon' on page 31 undefined on input line 
+40.
+
+<img/22.png, id=213, 526.96875pt x 715.92468pt>
+File: img/22.png Graphic file (type png)
+ <use img/22.png>
+Package pdftex.def Info: img/22.png used on input line 44.
+(pdftex.def)             Requested size: 263.48372pt x 357.96146pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+) [31
+
+
+
+]
+LaTeX Info: Redefining \. on input line 191.
+LaTeX Info: Redefining \% on input line 191.
+ [32 <./img/22.png>]
+\openout2 = `capitulo23.aux'.
+
+ (./capitulo23.tex
+Cap\'{\i }tulo 21.
+) [33
+
+
+
+]
+\openout2 = `capitulo24.aux'.
+
+ (./capitulo24.tex
+Cap\'{\i }tulo 22.
+<IMGA/linux.png, id=226, 220.825pt x 229.85875pt>
+File: IMGA/linux.png Graphic file (type png)
+ <use IMGA/linux.png>
+Package pdftex.def Info: IMGA/linux.png used on input line 17.
+(pdftex.def)             Requested size: 110.41222pt x 114.92908pt.
+)
+[34
+
+
+
+ <./IMGA/linux.png>]
+\openout2 = `capitulo25.aux'.
+
+ (./capitulo25.tex)
+\openout2 = `capitulo26.aux'.
+
+ (./capitulo26.tex
+Cap\'{\i }tulo 23.
+<IMG/26.jpg, id=231, 165.61874pt x 124.21407pt>
+File: IMG/26.jpg Graphic file (type jpg)
+ <use IMG/26.jpg>
+Package pdftex.def Info: IMG/26.jpg used on input line 8.
+(pdftex.def)             Requested size: 165.61833pt x 124.21375pt.
+) [35
+
+
+
+
+
+ <./IMG/26.jpg>]
+\openout2 = `capitulo27.aux'.
+
+ (./capitulo27.tex
+Cap\'{\i }tulo 24.
+<IMG27/27.jpg, id=235, 259.97125pt x 194.7275pt>
+File: IMG27/27.jpg Graphic file (type jpg)
+ <use IMG27/27.jpg>
+Package pdftex.def Info: IMG27/27.jpg used on input line 19.
+(pdftex.def)             Requested size: 129.9853pt x 97.3635pt.
+) [36
+
+
+
+ <./IMG27/27.jpg>]
+\openout2 = `capitulo28.aux'.
+
+
+No file capitulo28.tex.
+\openout2 = `capitulo29.aux'.
+
+No file capitulo29.tex.
+\openout2 = `capitulo30.aux'.
+
+No file capitulo30.tex.
+\openout2 = `capitulo31.aux'.
+
+No file capitulo31.tex.
+\openout2 = `capitulo32.aux'.
+
+(./capitulo32.tex
+Cap\'{\i }tulo 25.
+<IMG/32.png, id=239, 513.92pt x 513.92pt>
+File: IMG/32.png Graphic file (type png)
+ <use IMG/32.png>
+Package pdftex.def Info: IMG/32.png used on input line 20.
+(pdftex.def)             Requested size: 256.95937pt x 256.95937pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+) [37
+
+
+
+
+
+
+
+
+
+
+
+]
+LaTeX Info: Redefining \. on input line 201.
+LaTeX Info: Redefining \% on input line 201.
+ [38 <./IMG/32.png>] (./propedeutico.bbl)
+
+! LaTeX Error: \begin{itemize} on input line 30 ended by \end{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.208 \end{document}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[39
+
+
+] (./propedeutico.aux
 LaTeX Info: Redefining \. on input line 6.
 LaTeX Info: Redefining \% on input line 6.
- (./capitulo2.aux) (./Capitulo3.aux) (./capitulo4.aux)
-(./capitulo5.aux) (./Capitulo6.aux))
+ (./capitulo2.aux) (./capitulo3.aux) (./capitulo4.aux)
+(./capitulo5.aux) (./capitulo6.aux) (./capitulo7.aux) (./capitulo8.aux)
+(./capitulo9.aux) (./capitulo10.aux) (./capitulo11.aux) (./capitulo12.aux)
+(./capitulo13.aux) (./capitulo14.aux) (./capitulo15.aux) (./capitulo16.aux)
+(./capitulo17.aux) (./capitulo18.aux) (./capitulo19.aux) (./capitulo20.aux)
+(./capitulo21.aux) (./capitulo22.aux) (./capitulo23.aux) (./capitulo24.aux)
+(./capitulo25.aux) (./capitulo26.aux) (./capitulo27.aux) (./capitulo28.aux)
+(./capitulo29.aux) (./capitulo30.aux) (./capitulo31.aux) (./capitulo32.aux))
 
 LaTeX Warning: There were undefined references.
 
- ) )
-(\end occurred inside a group at level 2)
 
-### semi simple group (level 2) entered at line 13 (\begingroup)
+LaTeX Warning: There were multiply-defined labels.
+
+ )
+(\end occurred inside a group at level 6)
+
+### semi simple group (level 6) entered at line 30 (\begingroup)
+### simple group (level 5) entered at line 14 ({)
+### simple group (level 4) entered at line 13 ({)
+### simple group (level 3) entered at line 12 ({)
+### semi simple group (level 2) entered at line 11 (\begingroup)
 ### semi simple group (level 1) entered at line 6 (\begingroup)
-### bottom level
-(\end occurred when \iftrue on line 173 was incomplete)
-(\end occurred when \ifnum on line 173 was incomplete) 
+### bottom level 
 Here is how much of TeX's memory you used:
- 4735 strings out of 493064
- 60259 string characters out of 6138159
- 148461 words of memory out of 5000000
- 8135 multiletter control sequences out of 15000+600000
- 24855 words of font info for 54 fonts, out of 8000000 for 9000
+ 6252 strings out of 493064
+ 86081 string characters out of 6138159
+ 181900 words of memory out of 5000000
+ 9430 multiletter control sequences out of 15000+600000
+ 28491 words of font info for 64 fonts, out of 8000000 for 9000
  1137 hyphenation exceptions out of 8191
- 37i,11n,35p,438b,436s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texlive/texmf
--dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texlive/texmf-dist/f
-onts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/t
-ype1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
-blic/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/am
-sfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
-cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.
-pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></
-usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/sha
-re/texlive/texmf-dist/fonts/type1/public/cm-super/sfbi1200.pfb></usr/share/texl
-ive/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></usr/share/texlive/tex
-mf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texlive/texmf-dist
-/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texlive/texmf-dist/fonts/
-type1/public/cm-super/sfbx1728.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
-ublic/cm-super/sfbx2074.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/c
-m-super/sfbx2488.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super
-/sfrm0600.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfrm07
-00.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb>
-</usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfrm0900.pfb></usr/s
-hare/texlive/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/te
-xlive/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texlive/t
-exmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/share/texlive/texmf-di
-st/fonts/type1/public/cm-super/sfrm1728.pfb></usr/share/texlive/texmf-dist/font
-s/type1/public/cm-super/sfrm2488.pfb></usr/share/texlive/texmf-dist/fonts/type1
-/public/cm-super/sfsl1000.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
-/cm-super/sfti1000.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-sup
-er/sfti1200.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfti
-1440.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sftt1000.pf
-b>
-Output written on propedeutico.pdf (13 pages, 527090 bytes).
+ 42i,11n,41p,637b,695s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/cm-super/cm-supe
+r-t1.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.p
+fb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share
+/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texliv
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-s
+uper/sfbi1200.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sf
+bx1000.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfbx1200.
+pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></u
+sr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/cm-super/sfbx2074.pfb></usr/share/texli
+ve/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/cm-super/sfcc1200.pfb></usr/share/texlive/texmf-dist/
+fonts/type1/public/cm-super/sfrm0600.pfb></usr/share/texlive/texmf-dist/fonts/t
+ype1/public/cm-super/sfrm0700.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
+blic/cm-super/sfrm0800.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm
+-super/sfrm0900.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/
+sfrm1000.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfrm120
+0.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb><
+/usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb></usr/sh
+are/texlive/texmf-dist/fonts/type1/public/cm-super/sfrm2488.pfb></usr/share/tex
+live/texmf-dist/fonts/type1/public/cm-super/sfsl1000.pfb></usr/share/texlive/te
+xmf-dist/fonts/type1/public/cm-super/sfti0800.pfb></usr/share/texlive/texmf-dis
+t/fonts/type1/public/cm-super/sfti1000.pfb></usr/share/texlive/texmf-dist/fonts
+/type1/public/cm-super/sfti1200.pfb></usr/share/texlive/texmf-dist/fonts/type1/
+public/cm-super/sfti1440.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
+cm-super/sftt0900.pfb>
+Output written on propedeutico.pdf (57 pages, 3796347 bytes).
 PDF statistics:
- 171 PDF objects out of 1000 (max. 8388607)
- 120 compressed objects within 2 object streams
+ 355 PDF objects out of 1000 (max. 8388607)
+ 226 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 500000)
- 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 136 words of extra memory for PDF output out of 10000 (max. 10000000)
 
