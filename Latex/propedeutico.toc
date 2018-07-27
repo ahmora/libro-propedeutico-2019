@@ -1,0 +1,14 @@
+\select@language {spanish}
+\contentsline {chapter}{\IeC {\'I}ndice}{1}
+\contentsline {chapter}{\IeC {\'I}ndice de figuras}{2}
+\contentsline {chapter}{\IeC {\'I}ndice de tablas}{3}
+\contentsline {chapter}{\numberline {1}Alejandro}{5}
+\contentsline {section}{\numberline {1.1}Un poco sobre mi}{5}
+\contentsline {subsection}{\numberline {1.1.1}Hobbies}{5}
+\contentsline {section}{\numberline {1.2}F\IeC {\'o}rmulas}{5}
+\contentsline {section}{\numberline {1.3}Leyes de los Signos.}{6}
+\contentsline {chapter}{\numberline {2}Jose Eduardo Gonz\IeC {\'a}lez Jasso}{8}
+\contentsline {section}{\numberline {2.1}Mi descripcion.}{8}
+\contentsline {section}{\numberline {2.2}Mis libros favoritos}{8}
+\contentsline {subsection}{\numberline {2.2.1}Hobbies.}{8}
+\contentsline {section}{\numberline {2.3}Algo de matem\IeC {\'a}ticas simples}{9}
