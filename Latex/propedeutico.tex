@@ -1,0 +1,206 @@
+\documentclass[oneside]{book}
+\usepackage[spanish]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage[
+  top=3cm,
+  bottom=3cm,
+  left=2cm,
+  right=2cm,
+  heightrounded,
+]{geometry}
+\usepackage[svgnames]{xcolor} 
+
+\pdfminorversion=5
+
+\title{Ejemplo para el propedéutico de C. de la C.}
+\author{Alejandro Hernández Mora \thanks{\texttt{alejandrohmora@ciencias.unam.mx}}}
+\date{\today}
+
+\theoremstyle{definition}
+\newtheorem{teorema}{Teorema}[chapter] % reset theorem numbering for each chapter
+
+\renewcommand{\labelitemi}{$\bullet$}
+\begin{document}
+%\maketitle
+
+\begin{titlepage} % Suppresses headers and footers on the title page
+
+  \raggedleft % Right align everything
+  
+  \vspace*{\baselineskip} % Whitespace at the top of the page
+  
+  %------------------------------------------------
+  %	Author
+  %------------------------------------------------
+  
+  {\Large El nombre de varios autores} % Author name
+  
+  \vspace*{0.167\textheight} % Whitespace before the title
+  
+  %------------------------------------------------
+  %	Title and subtitle
+  %------------------------------------------------
+  
+  \textbf{\LARGE Un libro escrito en conjunto:}\\[\baselineskip] % First title line
+  
+  {\textcolor{Red}{\Huge El curso propedéutico}}\\[\baselineskip] % Main title line which draws the focus of the reader
+  
+  {\Large \textit{Un poco sobre los estudiantes de nuevo ingreso}} % Subtitle
+  
+  \vfill % Whitespace between the titles and the publisher
+  
+  %------------------------------------------------
+  %	Publisher
+  %------------------------------------------------
+  
+  {\large Editor: Alejandro Hernández~~\plogo} % Publisher and logo
+  
+  \vspace*{3\baselineskip} % Whitespace at the bottom of the page
+
+\end{titlepage}
+
+\tableofcontents % indice de contenidos
+\addcontentsline{toc}{chapter}{Índice}
+
+
+\listoffigures % indice de figuras
+\addcontentsline{toc}{chapter}{Índice de figuras} % para que aparezca en el indice de contenidos
+
+
+\listoftables % indice de tablas
+\addcontentsline{toc}{chapter}{Índice de tablas} % para que aparezca en el indice de contenidos
+
+\chapter*{Introducción}
+Este es un libro que hicimos todos los participantes de nuevo ingreso a la carrera
+de \emph{Ciencias de la Computación} de la \emph{Facultad de ciencias} de la
+\emph{Universidad Nacional Autónoma de México}.\\
+
+En este libro podemos encontrar una breve biografía de cada uno de los estudiantes que cursaron
+dicho curso en el \emph{Laboratorio de Ciencias de la Computación 1} en el edificio Tlahuizcalpan.\\
+
+En el último día de dicho curso, tuvimos un susto de alerta, que creímos que era sísmica.\\
+
+Este libro certifica que los alumnos que colaboraron con este proyeto, probablemente no sepan
+nada de \LaTeX, sin mebargo tienen conocimiento de su existencia xD.
+
+\chapter{Alejandro}
+
+Plantilla de \large{\LaTeX.}
+\section{Un poco sobre mi}
+Me llamo Alejandro y soy egresado de Ciencias de la Computación en la Facultad de Ciencias :)
+
+Mi trabajo de tesis estuvo basado en el artículo~\cite{Floodlight}.
+
+Me gusta mucho leer los libros~\cite{torres,comunidad,retorno}
+
+\subsection{Hobbies}
+\begin{enumerate}
+\item Hobbie 1
+\item Hobbie 2
+\item Hobbie 3
+\end{enumerate}
+Me gusta mucho la música, tocar la guitarra y cantar.
+
+\begin{itemize}
+\item Cosa 1
+\item Cosa 2
+\item Cosa 3
+\end{itemize}
+
+
+\section{Fórmulas}
+El teorema de pitágoras existe desde la época de los griegos.
+
+\begin{teorema}[De Pitágoras]
+El cuadrado de la hipotenusa es igual a la suma de los cuadrados de los catetos.\\
+$c^2 = a^2+b^2$
+\end{teorema}
+
+La chicharronera: $x= -b +-\frac{\sqrt{b^2-4ac}}{2a}$.
+
+\begin{enumerate}
+\item $c^2=a^2+b^2$
+\item $x= -b +-\frac{\sqrt{b^2-4ac}}{2a}$
+\end{enumerate}
+
+\begin{itemize}
+\item $c^2=a^2+b^2$
+\item $x= -b +-\frac{\sqrt{b^2-4ac}}{2a}$ 
+\end{itemize}
+
+\begin{figure}[h]
+  \centering
+  \begin{subfigure}{0.45\textwidth}
+    \includegraphics[width=0.8\textwidth]{pitagoras.png}
+    \caption{La fórmula del teorema.}
+    \label{fig:teo_pitagoras}
+  \end{subfigure}
+  \begin{subfigure}{0.45\textwidth}
+    \includegraphics[width=1.0\textwidth]{pitagoras2.png}
+    \caption{Demostración Gráfica del teorema.}
+    \label{fig:grafica}
+  \end{subfigure}
+  \caption{Teorema de Pitágoras.}
+\end{figure}
+
+\section{Leyes de los Signos.}
+\begin{table}[h]
+  \centering
+  \begin{tabular}{| c | c  | c |}
+    \hline
+    Operando & Operando & Resultado\\
+    $+$  &  $+$  & $+$\\
+    \hline
+    $+$  &  $-$  & $-$\\
+    \hline
+    $-$  &  $+$  & $-$\\
+    \hline
+    $-$  &  $-$  & $+$\\
+    \hline
+  \end{tabular}
+  \caption{Tabla con las leyes de los signos}
+  \label{tab:leyes_signos}
+\end{table}
+
+\include{capitulo2}
+\include{capitulo3}
+\include{capitulo4}
+\include{capitulo5}
+\include{capitulo6}
+\include{capitulo7}
+\include{capitulo8}
+\include{capitulo9}
+\include{capitulo10}
+\include{capitulo11}
+\include{capitulo12}
+\include{capitulo13}
+\include{capitulo14}
+\include{capitulo15}
+\include{capitulo16}
+\include{capitulo17}
+\include{capitulo18}
+\include{capitulo19}
+\include{capitulo20}
+\include{capitulo21}
+\include{capitulo22}
+\include{capitulo23}
+\include{capitulo24}
+\include{capitulo25}
+\include{capitulo26}
+\include{capitulo27}
+\include{capitulo28}
+\include{capitulo29}
+\include{capitulo30}
+\include{capitulo31}
+
+
+
+
+\bibliographystyle{acm}
+\bibliography{bibliografia}
+\end{document}
+
